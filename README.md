@@ -104,6 +104,7 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
+
 #Assignment
 
 makeCacheMatrix <- function(x = matrix()) {
@@ -120,6 +121,8 @@ list(set = set,
      setInverse = setInverse
      getInverse = getInverse
 }
+##we were able to compute the inverse of 'matrix' using 'makeCacheMatrix'
+##the cache can also provide the inverse if the matrix stays the same 
 
 ###we need a matrix inverse for 'x'
 
